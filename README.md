@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-I am a **Machine Learning Engineer** with over 3 years of experience specializing in developing and deploying predictive models using **Python**, **TensorFlow**, and **Scikit-learn**. I have a strong foundation in **statistical analysis**, **data structures**, and **mathematical modeling**, with hands-on expertise in **NLP** and **computer vision**. Passionate about creating scalable AI solutions that solve real-world business problems and drive impactful decisions.
+I am a **Machine Learning Engineer** specializing in developing and deploying predictive models using **Python**, **TensorFlow**, and **Scikit-learn**. I have a strong foundation in **statistical analysis**, **data structures**, and **mathematical modeling**, with hands-on expertise in **NLP** and **computer vision**. Passionate about creating scalable AI solutions that solve real-world business problems and drive impactful decisions.
 
 ---
 

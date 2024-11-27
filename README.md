@@ -10,7 +10,7 @@ I am a **Machine Learning Engineer** specializing in developing and deploying pr
 
 ---
 
-## 💡 Skills  
+## 💡 Skills
 - **Programming Languages**: Python, SQL  
 - **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn, Keras  
 - **Specialized Areas**: Deep Learning, NLP, Computer Vision, Predictive Modeling  

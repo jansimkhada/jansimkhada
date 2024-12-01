@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jan Simkhada! 
 
 🎯 **Machine Learning Engineer** | Phoenix, AZ  
-📧 **Email:** jandsimkhada@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-JanSimkhada-blue)](https://linkedin.com/in/jan-simkhada/)  
+📧 **Email:** janavi.ioe@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-JanSimkhada-blue)](https://linkedin.com/in/jan-simkhada/)  
 
 ---
 

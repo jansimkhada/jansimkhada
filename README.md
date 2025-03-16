@@ -30,7 +30,11 @@ I'm a **Data Analyst** with a background in **architecture, data visualization, 
 ✅ **Certified ScrumMaster (CSM)**  
 ✅ **The Complete SQL Bootcamp: Go from Zero to Hero (Udemy)**  
 
-## 🔥 Training  
+## 📌 Upcoming Certifications  
+✅ **AWS Solutions Architect Associate (In Progress)**  
+
+## 🔥 Training
+- **Harvard CS50: Python & SQL** – Strengthening foundational programming and database management skills 
 - **Generative AI Bootcamp (Takeo Consultancy)** – Python, SQL, Power BI, Data Analysis, EDA, Machine Learning, Neural Networks, Generative AI  
 - **DevOps Professional Training (ZorbaSofted)** – Linux, Cloud & AWS, CI/CD, Version Control, Configuration Management, Containerization  
 

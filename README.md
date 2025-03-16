@@ -12,6 +12,16 @@ I'm a **Data Analyst** with a background in **architecture, data visualization, 
 - **Project Management Tools:** Asana, BIM360, Procore, Jira, Miro  
 
 ## 🔬 Featured Projects  
+📌 **Analyze an Energy Usage Dataset** – Data analysis using spreadsheets to visualize energy demand trends  
+📌 **Create a Dashboard that Meets Business Requirements** – Custom dashboard development for tracking pharmaceutical projects  
+📌 **Assess the Data Quality for a Public Service Agency** – Data cleaning and quality assessment for a government project using Python  
+📌 **Retrieve User Activity Data on an Online Forum Using SQL** – SQL-based analysis of user engagement on a social media platform  
+📌 **Analyze Requirements and Plan a Data Analysis Project** – Business intelligence project planning for international expansion  
+📌 **Perform an Initial Data Analysis and Modeling Based on Sales Data** – Sales data modeling and forecasting for a retail business  
+📌 **Analyze an Existing Database and Retrieve Data** – Querying and evaluating an existing company database  
+📌 **Prepare Data for Analysis and Assess its Quality** – Data acquisition, cleaning, and assessment for business insights  
+📌 **Produce a Dashboard to Visualize Data** – Creating interactive dashboards for data-driven decision-making  
+📌 **Keep Track of Emerging Data Analysis Industry and Technology Trends** – Researching and summarizing new developments in data science  
 📌 **Chronic Disease Progression Prediction using LSTM** – Predicting long-term health trends with deep learning  
 📌 **Predictive Healthcare Utilization Model** – Forecasting patient visits and resource allocation  
 📌 **Real-Time NLP Healthcare Insights Extraction** – Extracting meaningful insights from medical records  
